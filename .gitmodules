@@ -1,0 +1,3 @@
+[submodule "boo-design"]
+	path = boo-design
+	url = git@github.com:LMansoldo/boo-design.git
